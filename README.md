@@ -1,1 +1,2 @@
 # PasswordGenerator
+# Most people think to go by a pet's name, birth date, address, or parts of the phone number. Things like these are too easy for criminals to discover so you shouldn't use them. Your password should not include information about you, this python code using the random module generates a password that criminals would have difficulty discovering. The code uses numbers and letters to generate a password for you. It allows users to create and choose the length of the password and how many passwords they would like to create. 
